@@ -1,3 +1,4 @@
+package javaCalculator;
 import java.util.Scanner;
 public class Calculadora {
 	private double firstValue;
