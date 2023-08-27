@@ -1,7 +1,4 @@
-package javaCalculator;
-import java.util.Scanner;
-public class Calculadora {
-	private double firstValue;
+private double firstValue;
 	private double secondValue;
 	public void start (){
 		
@@ -70,10 +67,3 @@ public class Calculadora {
         }
 		return result;
 	}
-
-	public static void main(String[] args) {
-		Calculadora calculadora = new Calculadora();
-		calculadora.start();
-	}
-}
-
